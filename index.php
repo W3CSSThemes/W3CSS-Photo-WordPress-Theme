@@ -43,30 +43,30 @@ img {margin-bottom: -7px}
 <!-- Photo Grid -->
 <div class="w3-row" id="myGrid" style="margin-bottom:128px">
   <div class="w3-third">
-    <img src="images/rocks.jpg" style="width:100%">
-    <img src="images/sound.jpg" style="width:100%">
-    <img src="images/woods.jpg" style="width:100%">
-    <img src="images/rock.jpg" style="width:100%">
-    <img src="images/nature.jpg" style="width:100%">
-    <img src="images/mist.jpg" style="width:100%">
+    <img src="<?php echo get_template_directory_uri(); ?>/images/rocks.jpg" style="width:100%">
+    <img src="<?php echo get_template_directory_uri(); ?>/images/sound.jpg" style="width:100%">
+    <img src="<?php echo get_template_directory_uri(); ?>/images/woods.jpg" style="width:100%">
+    <img src="<?php echo get_template_directory_uri(); ?>/images/rock.jpg" style="width:100%">
+    <img src="<?php echo get_template_directory_uri(); ?>/images/nature.jpg" style="width:100%">
+    <img src="<?php echo get_template_directory_uri(); ?>/images/mist.jpg" style="width:100%">
   </div>
 
   <div class="w3-third">
-    <img src="images/coffee.jpg" style="width:100%">
-    <img src="images/bridge.jpg" style="width:100%">
-    <img src="images/notebook.jpg" style="width:100%">
-    <img src="images/london.jpg" style="width:100%">
-    <img src="images/rocks.jpg" style="width:100%">
-    <img src="images/avatar_g.jpg" style="width:100%">
+    <img src="<?php echo get_template_directory_uri(); ?>/images/coffee.jpg" style="width:100%">
+    <img src="<?php echo get_template_directory_uri(); ?>/images/bridge.jpg" style="width:100%">
+    <img src="<?php echo get_template_directory_uri(); ?>/images/notebook.jpg" style="width:100%">
+    <img src="<?php echo get_template_directory_uri(); ?>/images/london.jpg" style="width:100%">
+    <img src="<?php echo get_template_directory_uri(); ?>/images/rocks.jpg" style="width:100%">
+    <img src="<?php echo get_template_directory_uri(); ?>/images/avatar_g.jpg" style="width:100%">
   </div>
 
   <div class="w3-third">
-    <img src="images/mist.jpg" style="width:100%">
-    <img src="images/workbench.jpg" style="width:100%">
-    <img src="images/gondol.jpg" style="width:100%">
-    <img src="images/skies.jpg" style="width:100%">
-    <img src="images/lights.jpg" style="width:100%">
-    <img src="images/workshop.jpg" style="width:100%">
+    <img src="<?php echo get_template_directory_uri(); ?>/images/mist.jpg" style="width:100%">
+    <img src="<?php echo get_template_directory_uri(); ?>/images/workbench.jpg" style="width:100%">
+    <img src="<?php echo get_template_directory_uri(); ?>/images/gondol.jpg" style="width:100%">
+    <img src="<?php echo get_template_directory_uri(); ?>/images/skies.jpg" style="width:100%">
+    <img src="<?php echo get_template_directory_uri(); ?>/images/lights.jpg" style="width:100%">
+    <img src="<?php echo get_template_directory_uri(); ?>/images/workshop.jpg" style="width:100%">
   </div>
 </div>
 
